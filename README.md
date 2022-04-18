@@ -8,5 +8,5 @@ Store and analyze running data
 
 
 # Commands to run on first checkout
-npm i express
-npm i mysql2
+* npm i express
+* npm i mysql2
