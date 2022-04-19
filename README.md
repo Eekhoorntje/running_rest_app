@@ -14,7 +14,7 @@ Store and analyze running data
 # Dockerized
 * docker-compose up
 
-#TODO List
+# TODO List
 * Add Mysql database table for Garmin Activity data
 * Build post logic for Garmin CSV
 * Add DNS entry setup
