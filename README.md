@@ -24,3 +24,4 @@ Store and analyze running data
 ** Add merge / whatever stuff to make re-uploading easier
 * Start writing react app to visualize data 
 * Add docker app to system service
+* Possibly add git hooks which will rebuild and relauch docker app on commit to main
