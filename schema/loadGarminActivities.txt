@@ -1,0 +1,6 @@
+LOAD DATA LOCAL INFILE  '/home/eekhoorntje/git/running_rest_app/data/runningdata.csv'
+INTO TABLE garminActivities
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
