@@ -12,8 +12,7 @@ async function getMultiple(page = 1){
   const meta = {page};
 
   return {
-    data,
-    meta
+    data
   }
 }
 
